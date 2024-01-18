@@ -34,7 +34,7 @@ iframe#tela {
 
 section.buttons {
     position: absolute;
-    bottom: 10px;
+    bottom: 25 px;
     left: 50%;
     transform: translateX(-50%);
     display: flex;
